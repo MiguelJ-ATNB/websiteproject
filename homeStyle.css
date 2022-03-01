@@ -1,0 +1,46 @@
+html{
+    background: url(imgs/gameshome.jpg) no-repeat fixed;
+    background-size: contain;
+    padding-top: 50px;
+}
+
+body{
+    background: white ;
+    opacity: 0.7;
+    height: max-content;
+    width: min-content;
+    margin: auto;
+    padding: 30px;
+    border-radius: 25px;
+}
+
+header{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    padding:  20px 100px;
+
+
+}
+
+#homeimg{
+ opacity: 0.85 ;
+ 
+}
+
+
+
+
+A:hover{
+    text-decoration: underline;
+}
+
+a{
+    font-style: italic;
+    text-decoration: none;
+    color: blueviolet;
+}
